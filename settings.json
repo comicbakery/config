@@ -32,8 +32,8 @@
             { 
                 "action": "globalSummon" 
             },
-            "keys": "§",
-        },
+            "keys": "§"
+        }
         // { 
         //     "command": 
         //     { 
